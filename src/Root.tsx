@@ -1,9 +1,9 @@
 import Dashboard from "./components/Dashboard";
 
-function App() {
+function Root() {
   return <>
     <Dashboard/>
   </>;
 }
 
-export default App;
+export default Root;

@@ -1,0 +1,9 @@
+1. today we build the frontend for the first page of app which would contain.
+
+header component
+activity component
+gradebook component
+attendance component
+ 
+ that's all for today.
+ 
